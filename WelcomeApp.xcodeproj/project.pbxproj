@@ -161,6 +161,7 @@
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 /* End PBXVariantGroup section */
 
